@@ -1,7 +1,5 @@
 # IPTABLES juicy goodness
 
----
-
 ##### Beginnings of IPTABLES
 
 To change the default value of any of the default policies:
